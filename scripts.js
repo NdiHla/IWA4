@@ -52,7 +52,7 @@ console.log(user, surname)
 /*
  * This is the date that a user created their account 
  */
-const date = '10/07/2014'
+constdate=('10/07/2014')
 
 console.log(date)
 
@@ -128,7 +128,7 @@ if (date = 2050) {
 	date = 'April'
 	console.log(date, 'Family Day')
 	console.log(date, 'Freedom Day')
-	let count = count + 4
+	let.count = (count + 4)
 
 	if (status = "student") {
 	  console.log('June', 'Youth Day')
@@ -139,7 +139,7 @@ if (date = 2050) {
 	console.log('September', 'Heritage Day')
 	date = 'December'
 	console.log(date, 'Day of Reconciliation')
-	let count = count + 3
+	let.count = count + 3
 
 	if (status = "parent") {
 	  console.log(date, 'Christmas Day')
